@@ -3,7 +3,7 @@
 
 This is a MERN stack (MongoDB, Express.js, React.js, Node.js) application that searches books for a given book title, then displays the results. It has a user login function that then provides a method to save desired book titles from the search results to the logged in user's account. The internal database API functions are provided through a GraphQL API using Apollo Server. Security for app is provided by JSON Web Tokens and the jwt-decode module for the client side.
 
-Deployed Heroku Link: 
+Deployed Heroku Link: https://git.heroku.com/mernbookengine.git
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -14,7 +14,9 @@ Deployed Heroku Link:
 ## Installation
 
 Ensure to install the following:
- ![alt text]()
+ ![alt text](./assets/client.png)
+ ![alt text](./assets/server.png)
+
 
 ## Usage
 The following criteria was given from the bootcamp:
@@ -57,11 +59,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Screenshots
 
-IndexedDB:
-![alt text]()
 
-Manifest:
-![alt text]()
+![alt text](./assets/Mutation1.png)
+
+![alt text](./assets/Mutation2.png)
 
 ## Credits
 
